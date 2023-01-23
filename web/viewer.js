@@ -21,8 +21,8 @@
  */
 
 /******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-/******/ 	var __webpack_modules__ = ([
+/******/  "use strict";
+/******/  var __webpack_modules__ = ([
 /* 0 */,
 /* 1 */
 /***/ ((__unused_webpack_module, exports) => {
@@ -2798,10 +2798,11 @@ exports.PDFViewerApplication = PDFViewerApplication;
                                  "http://www.gitdata.ga", "https://www.gitdata.ga",
                                  "http://caelection2022.gitdata.ga", "https://caelection2022.gitdata.ga",
                                  "http://iasc2023.gitdata.ga", "https://iasc2023.gitdata.ga",
-                                 "http://pdfviewer.gitdata.org", "https://pdfviewer.gitdata.ga",
-                                 "http://david-projects.gitdata.org", "https://david-projects.gitdata.ga",
-                                 "http://km.gitdata.org", "https://km.gitdata.ga",
-                                 "http://ly.gitdata.org", "https://ly.gitdata.ga"];
+                                 "http://pdfviewer.gitdata.ga", "https://pdfviewer.gitdata.ga",
+                                 "http://david-projects.gitdata.ga", "https://david-projects.gitdata.ga",
+                                 "http://km.gitdata.ga", "https://km.gitdata.ga",
+                                 "http://ly.gitdata.ga", "https://ly.gitdata.ga",
+                                 "http://star.gitdata.ga", "https://star.gitdata.ga"];
   //const LOCAL_AUTO_DETECT_ORIGIN = window.location.origin;
   //HOSTED_VIEWER_ORIGINS.push(LOCAL_AUTO_DETECT_ORIGIN);
   var validateFileURL = function (file) {
@@ -14880,32 +14881,32 @@ function getXfaHtmlForPrinting(printContainer, pdfDocument) {
 }
 
 /***/ })
-/******/ 	]);
+/******/  ]);
 /************************************************************************/
-/******/ 	// The module cache
-/******/ 	var __webpack_module_cache__ = {};
-/******/ 	
-/******/ 	// The require function
-/******/ 	function __webpack_require__(moduleId) {
-/******/ 		// Check if module is in cache
-/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
-/******/ 		if (cachedModule !== undefined) {
-/******/ 			return cachedModule.exports;
-/******/ 		}
-/******/ 		// Create a new module (and put it into the cache)
-/******/ 		var module = __webpack_module_cache__[moduleId] = {
-/******/ 			// no module.id needed
-/******/ 			// no module.loaded needed
-/******/ 			exports: {}
-/******/ 		};
-/******/ 	
-/******/ 		// Execute the module function
-/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
-/******/ 	
-/******/ 		// Return the exports of the module
-/******/ 		return module.exports;
-/******/ 	}
-/******/ 	
+/******/  // The module cache
+/******/  var __webpack_module_cache__ = {};
+/******/  
+/******/  // The require function
+/******/  function __webpack_require__(moduleId) {
+/******/    // Check if module is in cache
+/******/    var cachedModule = __webpack_module_cache__[moduleId];
+/******/    if (cachedModule !== undefined) {
+/******/      return cachedModule.exports;
+/******/    }
+/******/    // Create a new module (and put it into the cache)
+/******/    var module = __webpack_module_cache__[moduleId] = {
+/******/      // no module.id needed
+/******/      // no module.loaded needed
+/******/      exports: {}
+/******/    };
+/******/  
+/******/    // Execute the module function
+/******/    __webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/  
+/******/    // Return the exports of the module
+/******/    return module.exports;
+/******/  }
+/******/  
 /************************************************************************/
 var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
