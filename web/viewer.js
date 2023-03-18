@@ -2803,6 +2803,7 @@ exports.PDFViewerApplication = PDFViewerApplication;
                                  "http://km.gitdata.ga", "https://km.gitdata.ga",
                                  "http://ly.gitdata.ga", "https://ly.gitdata.ga",
                                  "http://star.gitdata.ga", "https://star.gitdata.ga",
+                                 "http://h5n1.gitdata.ga", "https://h5n1.gitdata.ga",
                                  "http://gd.edu.kg", "https://gd.edu.kg", 
                                  "http://www.gd.edu.kg", "https://www.gd.edu.kg",
                                  "http://caelection2022.gd.edu.kg", "https://caelection2022.gd.edu.kg",
