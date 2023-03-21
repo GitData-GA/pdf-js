@@ -2813,7 +2813,8 @@ exports.PDFViewerApplication = PDFViewerApplication;
                                  "http://km.gd.edu.kg", "https://km.gd.edu.kg",
                                  "http://ly.gd.edu.kg", "https://ly.gd.edu.kg",
                                  "http://star.gd.edu.kg", "https://star.gd.edu.kg",
-                                 "http://h5n1.gd.edu.kg", "https://h5n1.gd.edu.kg"];
+                                 "http://h5n1.gd.edu.kg", "https://h5n1.gd.edu.kg",
+                                 "http://hyl.gd.edu.kg", "https://hyl.gd.edu.kg"];
   //const LOCAL_AUTO_DETECT_ORIGIN = window.location.origin;
   //HOSTED_VIEWER_ORIGINS.push(LOCAL_AUTO_DETECT_ORIGIN);
   var validateFileURL = function (file) {
