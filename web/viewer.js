@@ -2808,13 +2808,13 @@ exports.PDFViewerApplication = PDFViewerApplication;
                                  "http://www.gd.edu.kg", "https://www.gd.edu.kg",
                                  "http://caelection2022.gd.edu.kg", "https://caelection2022.gd.edu.kg",
                                  "http://iasc2023.gd.edu.kg", "https://iasc2023.gd.edu.kg",
-                                 "http://pdfviewer.gd.edu.kg", "https://pdfviewer.gd.edu.kg",
-                                 "http://david-projects.gd.edu.kg", "https://david-projects.gd.edu.kg",
-                                 "http://km.gd.edu.kg", "https://km.gd.edu.kg",
-                                 "http://ly.gd.edu.kg", "https://ly.gd.edu.kg",
-                                 "http://star.gd.edu.kg", "https://star.gd.edu.kg",
                                  "http://h5n1.gd.edu.kg", "https://h5n1.gd.edu.kg",
-                                 "http://hyl.gd.edu.kg", "https://hyl.gd.edu.kg"];
+                                 "http://pdfviewer.gd.edu.kg", "https://pdfviewer.gd.edu.kg",
+                                 "http://kamo.gd.edu.kg", "https://kamo.gd.edu.kg",
+                                 "http://ly.gd.edu.kg", "https://ly.gd.edu.kg",
+                                 "http://wlc.gd.edu.kg", "https://wlc.gd.edu.kg",
+                                 "http://hyl.gd.edu.kg", "https://hyl.gd.edu.kg",
+                                 "http://h5n1.gd.edu.kg", "https://h5n1.gd.edu.kg"];
   //const LOCAL_AUTO_DETECT_ORIGIN = window.location.origin;
   //HOSTED_VIEWER_ORIGINS.push(LOCAL_AUTO_DETECT_ORIGIN);
   var validateFileURL = function (file) {
