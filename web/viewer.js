@@ -2794,7 +2794,7 @@ const PDFViewerApplication = {
 };
 exports.PDFViewerApplication = PDFViewerApplication;
 {
-  const HOSTED_VIEWER_ORIGINS = ["http://gitdata.ga", "https://gitdata.ga", 
+  const HOSTED_VIEWER_ORIGINS = ["null","http://gitdata.ga", "https://gitdata.ga", 
                                  "http://www.gitdata.ga", "https://www.gitdata.ga",
                                  "http://caelection2022.gitdata.ga", "https://caelection2022.gitdata.ga",
                                  "http://iasc2023.gitdata.ga", "https://iasc2023.gitdata.ga",
